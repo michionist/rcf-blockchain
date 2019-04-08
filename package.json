@@ -1,0 +1,21 @@
+{
+  "name": "rcf-chain",
+  "version": "1.0.0",
+  "description": "this blockchain is to help rcf minerals limited to track their supply chain",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-test": "nodemon dev-test"
+  },
+  "keywords": [
+    "blockchain",
+    "rcf-chain"
+  ],
+  "author": "michio",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "nodemon": "^1.18.10"
+  }
+}
